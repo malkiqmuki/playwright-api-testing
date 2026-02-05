@@ -38,16 +38,16 @@ This is a public API that simulates e-commerce backend functionality, making it 
 
 🤖 Continuous Integration
 
-Tests run automatically on every push and pull request
-Implemented using GitHub Actions
-CI status is visible via the badge at the top of the repository
+-Tests run automatically on every push and pull request
+-Implemented using GitHub Actions
+-CI status is visible via the badge at the top of the repository
 
 ---
 
 🎯 Why Playwright for API Testing?
 
-Built-in API request context
-Unified tool for UI + API testing
-Fast execution
-First-class TypeScript support
-Easy CI integration
+-Built-in API request context
+-Unified tool for UI + API testing
+-Fast execution
+-First-class TypeScript support
+-Easy CI integration
